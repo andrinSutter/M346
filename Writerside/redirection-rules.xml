@@ -22,4 +22,8 @@
         <description>Created after removal of "Kapitel 2" from Instance Name</description>
         <accepts>Kapitel-2.html</accepts>
     </rule>
+    <rule id="f130e81">
+        <description>Created after removal of "Überblick" from Modul 346</description>
+        <accepts>Überblick.html</accepts>
+    </rule>
 </rules>
