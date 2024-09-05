@@ -1,0 +1,2 @@
+# Virtualisierung vs Cloud
+

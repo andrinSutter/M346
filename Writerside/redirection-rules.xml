@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="7e5116aa">
+        <description>Created after removal of "Starter" from Instance Name</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="730539ad">
+        <description>Created after removal of "Grundlagen" from Instance Name</description>
+        <accepts>Grundlagen.html</accepts>
+    </rule>
+    <rule id="6978a4e3">
+        <description>Created after removal of "Überblick" from Instance Name</description>
+        <accepts>Überblick.html</accepts>
+    </rule>
+    <rule id="1d13e8c5">
+        <description>Created after removal of "Kapitel 2" from Instance Name</description>
+        <accepts>Kapitel-2.html</accepts>
+    </rule>
+</rules>
