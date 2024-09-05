@@ -14,7 +14,10 @@
             <toc-element topic="VorteileCloud.md"/>
             <toc-element topic="Nachteile.md"/>
         </toc-element>
-        <toc-element topic="Virtualisierung.md"/>
+        <toc-element topic="Virtualisierung.md">
+            <toc-element topic="NachteileVirtualisierung.md"/>
+            <toc-element topic="Vorteile.md"/>
+        </toc-element>
         <toc-element topic="Virtualisierung-vs-Cloud.md"/>
     </toc-element>
     <toc-element toc-title="Kapitel 1">
