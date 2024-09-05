@@ -3,11 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="Modul 346"
                   start-page="Überblick.topic">
 
     <toc-element topic="Überblick.topic"/>
     <toc-element topic="Grundlagen.md">
+        <toc-element topic="Hypervisor.md"/>
         <toc-element topic="Cloud.md">
             <toc-element topic="Cloud-Maturity-Model.md"/>
             <toc-element topic="NIST-Modell.md"/>
