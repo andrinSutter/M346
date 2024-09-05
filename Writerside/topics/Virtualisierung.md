@@ -14,7 +14,6 @@ Hardware-Komponenten wie Prozessoren, Speicher und Festplatten werden durch Soft
 
 **Beispiel:** Virtuelle Maschine (VM).
 
-
 ## Software-Virtualisierung
 
 Anwendungen werden in isolierten und virtuellen Umgebungen ausgeführt, unabhängig von der zugrunde liegenden Hardware.
